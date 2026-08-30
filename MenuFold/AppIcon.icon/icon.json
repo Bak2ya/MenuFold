@@ -1,0 +1,67 @@
+{
+  "fill" : {
+    "linear-gradient" : [
+      "display-p3:0.90200,0.92100,0.94400,1.00000",
+      "display-p3:0.79000,0.82000,0.85800,1.00000"
+    ],
+    "orientation" : {
+      "start" : { "x" : 0.5, "y" : 0.0 },
+      "stop" : { "x" : 0.5, "y" : 0.85 }
+    }
+  },
+  "fill-specializations" : [
+    {
+      "appearance" : "dark",
+      "value" : {
+        "linear-gradient" : [
+          "display-p3:0.15500,0.17700,0.21500,1.00000",
+          "display-p3:0.07500,0.08700,0.11000,1.00000"
+        ],
+        "orientation" : {
+          "start" : { "x" : 0.5, "y" : 0.0 },
+          "stop" : { "x" : 0.5, "y" : 0.85 }
+        }
+      }
+    },
+    {
+      "appearance" : "tinted",
+      "value" : "automatic"
+    }
+  ],
+  "groups" : [
+    {
+      "blur-material" : 0.12,
+      "layers" : [
+        {
+          "glass" : false,
+          "image-name" : "Manifold.png",
+          "image-name-specializations" : [
+            {
+              "appearance" : "tinted",
+              "value" : "ManifoldMono.png"
+            }
+          ],
+          "name" : "MenuFold Manifold",
+          "position" : {
+            "scale" : 1.0,
+            "translation-in-points" : [ 0, 0 ]
+          }
+        }
+      ],
+      "lighting" : "combined",
+      "name" : "Manifold",
+      "shadow" : {
+        "kind" : "neutral",
+        "opacity" : 0.22
+      },
+      "specular" : true,
+      "translucency" : {
+        "enabled" : false,
+        "value" : 0.0
+      }
+    }
+  ],
+  "supported-platforms" : {
+    "squares" : "shared"
+  }
+}
