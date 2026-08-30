@@ -4,7 +4,7 @@
 
 네트워크 미터, 잠자기 방지, 빠른 실행, 메뉴바 접기 기능을 한 곳에 모은 macOS 메뉴바 앱입니다.
 
-Bak2YA가 ChatGPT와 함께 만들었어요
+MenuFold는 Bak2YA가 ChatGPT와 함께 만들었어요
 
 ## 기능
 
@@ -43,8 +43,6 @@ MenuFold는 사용자의 개인정보를 수집하지 않습니다.
 ## Open Source
 
 MenuFold is open source.
-
-MenuFold는 Bak2YA가 ChatGPT와 함께 만들었습니다.
 
 ---
 
